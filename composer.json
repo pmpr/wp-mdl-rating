@@ -1,0 +1,26 @@
+{
+  "name": "pmpr-mdl/wp-mdl-rating",
+  "type": "project",
+  "license": "proprietary",
+  "description": "Rating Module for Wordpress",
+  "keywords": [
+    "wordpress",
+    "package",
+    "module",
+    "rating"
+  ],
+  "require": {
+    "php": ">=7.4",
+    "pmpr-cmn/wp-cmn-foundation": "~1.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Pmpr\\Module\\Rating\\": "src/Pmpr/Module/Rating"
+    },
+    "files": [
+      "index.php"
+    ]
+  },
+  "minimum-stability": "dev",
+  "version": "1.0.0"
+}
