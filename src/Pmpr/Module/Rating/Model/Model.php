@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             63977daf6fb4c             |
+    |             63ccf3b51eed1             |
     |_______________________________________|
 */
  namespace Pmpr\Module\Rating\Model; use Pmpr\Module\Rating\Container; class Model extends Container { public function aqyikqugcomoqqqi() { Rate::symcgieuakksimmu(); Feedback::symcgieuakksimmu(); } }
