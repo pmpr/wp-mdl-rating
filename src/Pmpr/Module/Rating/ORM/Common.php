@@ -4,4 +4,4 @@
     |             66e5ec93bbc49             |
     |_______________________________________|
 */
- use Pmpr\Module\Rating\Rating; Rating::symcgieuakksimmu();
+ namespace Pmpr\Module\Rating\ORM; use Pmpr\Common\Foundation\_ORM\ORMObject; abstract class Common extends ORMObject { }
