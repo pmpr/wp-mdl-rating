@@ -2,8 +2,9 @@
   "prod-require": {
     "php": "8.2",
     "wordpress": "6.0",
-    "wp-cmn-foundation": "latest"
+    "wp-cmn-foundation": "latest",
+    "wp-utl-visitor-tracker": "latest"
   },
-  "tag": "1.2.7",
-  "timestamp": "1759177590"
+  "tag": "1.2.8",
+  "timestamp": "1766608267"
 }
